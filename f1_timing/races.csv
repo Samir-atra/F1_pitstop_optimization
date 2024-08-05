@@ -1,0 +1,122 @@
+id,date,season,location,availablecompounds,comment,nolaps,nolapsplanned,tracklength
+1,2014-03-16,2014,Melbourne,"A2,A3,I,W",,57,58,5303.0
+2,2014-03-30,2014,KualaLumpur,"A1,A2,I,W",,56,56,5543.0
+3,2014-04-06,2014,Sakhir,"A2,A3,I,W","Crash GUT in lap 41, SC somewhen in the end of lap 41 or beginning of lap 42",57,57,5412.0
+4,2014-04-20,2014,Shanghai,"A2,A3,I,W",,54,56,5451.0
+5,2014-05-11,2014,Catalunya,"A1,A2,I,W",,66,66,4655.0
+6,2014-05-25,2014,MonteCarlo,"A3,A4,I,W",,78,78,3337.0
+7,2014-06-08,2014,Montreal,"A3,A4,I,W","Race finished behind SC",70,70,4361.0
+8,2014-06-22,2014,Spielberg,"A3,A4,I,W",,71,71,4318.0
+9,2014-07-06,2014,Silverstone,"A1,A2,I,W","RAI crashed into barrier in lap 1, race was interrupted for 1 hour (at 116s t_race) to repair the barrier between lap 1/2, cars standing in grid in the meanwhile, restart behind SC in lap 2",52,52,5891.0
+10,2014-07-20,2014,Hockenheim,"A3,A4,I,W",,67,67,4574.0
+11,2014-07-27,2014,Budapest,"A2,A3,I,W","Wet in the beginning",70,70,4381.0
+12,2014-08-24,2014,Spa,"A2,A3,I,W",,44,44,7004.0
+13,2014-09-07,2014,Monza,"A1,A2,I,W",,53,53,5793.0
+14,2014-09-21,2014,Singapore,"A3,A4,I,W",,60,61,5063.0
+15,2014-10-05,2014,Suzuka,"A1,A2,I,W","Wet race, start behind SC, race interrupted in lap 2/3 for 15 minutes (in the pit), restart behind SC, race finally interrupted after lap 46, race officially ended after lap 44",44,53,5807.0
+16,2014-10-12,2014,Sochi,"A2,A3,I,W",,53,53,5848.0
+17,2014-11-02,2014,Austin,"A2,A3,I,W",,56,56,5513.0
+18,2014-11-09,2014,SaoPaulo,"A2,A3,I,W",,71,71,4309.0
+19,2014-11-23,2014,YasMarina,"A3,A4,I,W",,55,55,5554.0
+20,2015-03-15,2015,Melbourne,"A2,A3,I,W",,58,58,5303.0
+21,2015-03-29,2015,KualaLumpur,"A1,A2,I,W",,56,56,5543.0
+22,2015-04-12,2015,Shanghai,"A2,A3,I,W","Race finished behind SC",56,56,5451.0
+23,2015-04-19,2015,Sakhir,"A2,A3,I,W",,57,57,5412.0
+24,2015-05-10,2015,Catalunya,"A1,A2,I,W",,66,66,4655.0
+25,2015-05-24,2015,MonteCarlo,"A3,A4,I,W","SC followed directly on VSC",78,78,3337.0
+26,2015-06-07,2015,Montreal,"A3,A4,I,W",,70,70,4361.0
+27,2015-06-21,2015,Spielberg,"A3,A4,I,W",,71,71,4318.0
+28,2015-07-05,2015,Silverstone,"A1,A2,I,W","Rain in the end",52,52,5891.0
+29,2015-07-26,2015,Budapest,"A2,A3,I,W","SC followed directly on VSC, SC through pit lane",69,70,4381.0
+30,2015-08-23,2015,Spa,"A2,A3,I,W",,43,44,7004.0
+31,2015-09-06,2015,Monza,"A2,A3,I,W",,53,53,5793.0
+32,2015-09-20,2015,Singapore,"A3,A4,I,W","SC followed directly on VSC",61,61,5063.0
+33,2015-09-27,2015,Suzuka,"A1,A2,I,W",,53,53,5807.0
+34,2015-10-11,2015,Sochi,"A3,A4,I,W",,53,53,5848.0
+35,2015-10-25,2015,Austin,"A2,A3,I,W","Rain in the beginning",56,56,5513.0
+36,2015-11-01,2015,MexicoCity,"A2,A3,I,W",,71,71,4304.0
+37,2015-11-15,2015,SaoPaulo,"A2,A3,I,W",,71,71,4309.0
+38,2015-11-29,2015,YasMarina,"A3,A4,I,W",,55,55,5554.0
+39,2016-03-20,2016,Melbourne,"A2,A3,A4,I,W","SC, then red flag, restart behind SC",57,58,5303.0
+40,2016-04-03,2016,Sakhir,"A2,A3,A4,I,W",,57,57,5412.0
+41,2016-04-17,2016,Shanghai,"A2,A3,A4,I,W",,56,56,5451.0
+42,2016-05-01,2016,Sochi,"A2,A3,A4,I,W","SC followed directly on VSC",53,53,5848.0
+43,2016-05-15,2016,Catalunya,"A1,A2,A3,I,W",,66,66,4655.0
+44,2016-05-29,2016,MonteCarlo,"A3,A4,A5,I,W","Start behind SC because of rain",78,78,3337.0
+45,2016-06-12,2016,Montreal,"A3,A4,A5,I,W",,70,70,4361.0
+46,2016-06-19,2016,Baku,"A2,A3,A4,I,W",,51,51,6003.0
+47,2016-07-03,2016,Spielberg,"A3,A4,A5,I,W","SC through pit lane",71,71,4318.0
+48,2016-07-10,2016,Silverstone,"A1,A2,A3,I,W","Start behind SC because of rain",52,52,5891.0
+49,2016-07-24,2016,Budapest,"A2,A3,A4,I,W",,70,70,4381.0
+50,2016-07-31,2016,Hockenheim,"A2,A3,A4,I,W",,67,67,4574.0
+51,2016-08-28,2016,Spa,"A2,A3,A4,I,W","SC, then red flag, restart behind SC",44,44,7004.0
+52,2016-09-04,2016,Monza,"A2,A3,A4,I,W",,53,53,5793.0
+53,2016-09-18,2016,Singapore,"A3,A4,A5,I,W","SC through pit lane",61,61,5063.0
+54,2016-10-02,2016,KualaLumpur,"A1,A2,A3,I,W",,56,56,5543.0
+55,2016-10-09,2016,Suzuka,"A1,A2,A3,I,W",,53,53,5807.0
+56,2016-10-23,2016,Austin,"A2,A3,A4,I,W",,56,56,5513.0
+57,2016-10-30,2016,MexicoCity,"A2,A3,A4,I,W","SC followed directly on VSC",71,71,4304.0
+58,2016-11-13,2016,SaoPaulo,"A1,A2,A3,I,W","Wet race, start behind SC because of rain, red flag in lap 20/21, restart behind SC, red flag in lap 28/29",71,71,4309.0
+59,2016-11-27,2016,YasMarina,"A3,A4,A5,I,W",,55,55,5554.0
+60,2017-03-26,2017,Melbourne,"A3,A4,A5,I,W",,57,58,5303.0
+61,2017-04-09,2017,Shanghai,"A2,A3,A4,I,W","Slightly wet in the beginning, SC through pit lane",56,56,5451.0
+62,2017-04-16,2017,Sakhir,"A2,A3,A4,I,W",,57,57,5412.0
+63,2017-04-30,2017,Sochi,"A3,A4,A5,I,W",,52,53,5848.0
+64,2017-05-14,2017,Catalunya,"A1,A2,A3,I,W",,66,66,4655.0
+65,2017-05-28,2017,MonteCarlo,"A3,A4,A5,I,W",,78,78,3337.0
+66,2017-06-11,2017,Montreal,"A3,A4,A5,I,W",,70,70,4361.0
+67,2017-06-25,2017,Baku,"A2,A3,A4,I,W","SC through pit lane in lap 17, second SC, then red flag in lap 22/23, restart behind SC",51,51,6003.0
+68,2017-07-09,2017,Spielberg,"A3,A4,A5,I,W",,71,71,4318.0
+69,2017-07-16,2017,Silverstone,"A2,A3,A4,I,W",,51,52,5891.0
+70,2017-07-30,2017,Budapest,"A2,A3,A4,I,W",,70,70,4381.0
+71,2017-08-27,2017,Spa,"A3,A4,A5,I,W",,44,44,7004.0
+72,2017-09-03,2017,Monza,"A2,A3,A4,I,W",,53,53,5793.0
+73,2017-09-17,2017,Singapore,"A3,A4,A5,I,W","Wet at the start, first SC through pit lane",58,61,5063.0
+74,2017-10-01,2017,KualaLumpur,"A2,A3,A4,I,W",,56,56,5543.0
+75,2017-10-08,2017,Suzuka,"A2,A3,A4,I,W",,53,53,5807.0
+76,2017-10-22,2017,Austin,"A3,A4,A5,I,W",,56,56,5513.0
+77,2017-10-29,2017,MexicoCity,"A3,A4,A5,I,W",,71,71,4304.0
+78,2017-11-12,2017,SaoPaulo,"A2,A3,A4,I,W","SC through pit lane",71,71,4309.0
+79,2017-11-26,2017,YasMarina,"A3,A4,A5,I,W",,55,55,5554.0
+80,2018-03-25,2018,Melbourne,"A4,A5,A6,I,W",,58,58,5303.0
+81,2018-04-08,2018,Sakhir,"A3,A4,A5,I,W",,57,57,5412.0
+82,2018-04-15,2018,Shanghai,"A3,A4,A6,I,W",,56,56,5451.0
+83,2018-04-29,2018,Baku,"A4,A5,A6,I,W",,51,51,6003.0
+84,2018-05-13,2018,Catalunya,"A3,A4,A5,I,W",,66,66,4655.0
+85,2018-05-27,2018,MonteCarlo,"A5,A6,A7,I,W",,78,78,3337.0
+86,2018-06-10,2018,Montreal,"A5,A6,A7,I,W",,68,70,4361.0
+87,2018-06-24,2018,LeCastellet,"A4,A5,A6,I,W",,53,53,5842.0
+88,2018-07-01,2018,Spielberg,"A4,A5,A6,I,W",,71,71,4318.0
+89,2018-07-08,2018,Silverstone,"A2,A3,A4,I,W",,52,52,5891.0
+90,2018-07-22,2018,Hockenheim,"A3,A4,A6,I,W","Wet race",67,67,4574.0
+91,2018-07-29,2018,Budapest,"A3,A4,A6,I,W",,70,70,4381.0
+92,2018-08-26,2018,Spa,"A3,A4,A5,I,W","SC through pit lane",44,44,7004.0
+93,2018-09-02,2018,Monza,"A3,A4,A5,I,W",,53,53,5793.0
+94,2018-09-16,2018,Singapore,"A4,A6,A7,I,W",,61,61,5063.0
+95,2018-09-30,2018,Sochi,"A4,A6,A7,I,W",,53,53,5848.0
+96,2018-10-07,2018,Suzuka,"A3,A4,A5,I,W",,53,53,5807.0
+97,2018-10-21,2018,Austin,"A4,A5,A6,I,W",,56,56,5513.0
+98,2018-10-28,2018,MexicoCity,"A5,A6,A7,I,W",,71,71,4304.0
+99,2018-11-11,2018,SaoPaulo,"A3,A4,A5,I,W",,71,71,4309.0
+100,2018-11-25,2018,YasMarina,"A5,A6,A7,I,W",,55,55,5554.0
+101,2019-03-17,2019,Melbourne,"A3,A4,A6,I,W",,58,58,5303.0
+102,2019-03-31,2019,Sakhir,"A2,A3,A4,I,W","Race finished behind SC",57,57,5412.0
+103,2019-04-14,2019,Shanghai,"A3,A4,A6,I,W",,56,56,5451.0
+104,2019-04-28,2019,Baku,"A3,A4,A6,I,W",,51,51,6003.0
+105,2019-05-12,2019,Catalunya,"A2,A3,A4,I,W",,66,66,4655.0
+106,2019-05-26,2019,MonteCarlo,"A4,A6,A7,I,W",,78,78,3337.0
+107,2019-06-09,2019,Montreal,"A4,A6,A7,I,W",,70,70,4361.0
+108,2019-06-23,2019,LeCastellet,"A3,A4,A6,I,W",,53,53,5842.0
+109,2019-06-30,2019,Spielberg,"A3,A4,A6,I,W",,71,71,4318.0
+110,2019-07-14,2019,Silverstone,"A2,A3,A4,I,W",,52,52,5891.0
+111,2019-07-28,2019,Hockenheim,"A3,A4,A6,I,W","Wet race",64,67,4574.0
+112,2019-08-04,2019,Budapest,"A3,A4,A6,I,W",,70,70,4381.0
+113,2019-09-01,2019,Spa,"A2,A3,A4,I,W",,44,44,7004.0
+114,2019-09-08,2019,Monza,"A3,A4,A6,I,W",,53,53,5793.0
+115,2019-09-22,2019,Singapore,"A4,A6,A7,I,W",,61,61,5063.0
+116,2019-09-29,2019,Sochi,"A3,A4,A6,I,W",,53,53,5848.0
+117,2019-10-13,2019,Suzuka,"A2,A3,A4,I,W",,52,53,5807.0
+118,2019-10-27,2019,MexicoCity,"A3,A4,A6,I,W",,71,71,4304.0
+119,2019-11-03,2019,Austin,"A3,A4,A6,I,W",,56,56,5513.0
+120,2019-11-17,2019,SaoPaulo,"A2,A3,A4,I,W",,71,71,4309.0
+121,2019-12-01,2019,YasMarina,"A4,A6,A7,I,W",,55,55,5554.0
